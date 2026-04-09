@@ -1,2 +1,2 @@
 # Repositório para teste de git
-criado para testar comandos de git no terminal
+criado para testar comandos de git no terminal pelo vscode
