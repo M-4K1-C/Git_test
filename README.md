@@ -1,2 +1,2 @@
-# Git_test
-Teste de edição!
+# Repositório para teste de git
+criado para testar comandos de git no terminal
